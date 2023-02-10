@@ -12,6 +12,7 @@
     <artifactId>wolfcar-dependencies</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>wolfcar-dependencies</name>
+    <packaging>pom</packaging>
     <description>wolfcar-dependencies</description>
     <properties>
         <java.version>1.8</java.version>
